@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/nerossd2/ML-DCI/MLP-model/model_fetal_snr_20_power_30_M_3_BVAL_2502.ckpt"
+all_model_checkpoint_paths: "/media/nerossd2/ML-DCI/MLP-model/model_fetal_snr_20_power_30_M_3_BVAL_2502.ckpt"
